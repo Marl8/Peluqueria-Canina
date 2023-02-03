@@ -2,7 +2,7 @@
 
 PROYECTO PELUQUERIA CANINA - TodoCode
 
-Proyecto de una aplicación realizado con Swing para una peluqueria canina. 
+Proyecto de una aplicación realizado con Java Maven y Swing para una peluqueria canina. 
 Permite realizar una CRUD de mascotas y dueños conectando la aplicación con una base de datos MySQL.
 
 
